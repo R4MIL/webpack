@@ -1,0 +1,5 @@
+@mixin underBold($fontSize) {
+    font-weight: 600;
+    text-decoration: underline;
+    font-size: $fontSize;
+}
